@@ -1,0 +1,2 @@
+C:\Users\pandy\Documents\OpenGL\Hello World Window\Debug\Hello World Window.exe
+C:\Users\pandy\Documents\OpenGL\Hello World Window\Debug\Hello World Window.pdb

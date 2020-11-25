@@ -1,0 +1,2 @@
+C:\Users\pandy\Documents\OpenGL\OpenGL-8\Debug\OpenGL-8.exe
+C:\Users\pandy\Documents\OpenGL\OpenGL-8\Debug\OpenGL-8.pdb
